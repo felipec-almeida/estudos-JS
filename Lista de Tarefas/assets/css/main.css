@@ -1,0 +1,22 @@
+.lista-div {
+  display: flex;
+  margin: 0;
+  padding: 0;
+  justify-content: center;
+  align-items: center;
+}
+
+.lista-ol {
+  color: darkcyan;
+  border: 1px dashed black;
+  font-size: 40px;
+  padding-left: 6%;
+  padding-right: 4%;
+  margin-top: 25%;
+  list-style-type: disc;
+}
+
+.lista-ol li {
+  margin-top: 0.5%;
+  margin-bottom: 0.5%;
+}
